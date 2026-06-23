@@ -1,0 +1,30 @@
+text# VSCode
+.vscode/
+*.code-workspace
+
+# C++ Build outputs
+build/
+bin/
+obj/
+*.o
+*.obj
+*.out
+*.exe
+*.dSYM/
+*.lib
+
+# Executables
+main
+main.exe
+test
+test.exe
+*.zip
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Costom
+config.txt
+savedir.txt
+pictures/
